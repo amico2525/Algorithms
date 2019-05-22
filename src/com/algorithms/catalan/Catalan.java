@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.math.BigInteger;
 
+//Calculation of Catalan numbers from 1 to 10
+
 public class Catalan {
 
     public static void main(String[] args) {
