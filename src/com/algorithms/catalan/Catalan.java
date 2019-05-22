@@ -30,7 +30,7 @@ public class Catalan {
         return factNumb.longValue();
     }
 
-    private static String catalanCalc(int number){
+    public static String catalanCalc(int number){
         if (number < 0) {
             System.out.println("Нельзя вводить отрицательное число");
             return "";
